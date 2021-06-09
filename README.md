@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Nakjemmy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![nakjemmy's GitHub Stat](https://github-readme-stats.vercel.app/api?username=nakjemmy&show_icons=true&theme=radical)
 
 
 <!--
