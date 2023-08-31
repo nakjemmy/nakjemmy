@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/nakjemmy" target="blank"><img src="https://img.shields.io/twitter/follow/nakjemmy?logo=twitter&style=for-the-badge" alt="nakjemmy" /></a> </p>
 
-- 🌱 I’m currently learning **Adonis.js**
+- 🌱 I’m currently learning **Swift**
 
-- 💬 Ask me about **laravel, flutter, vue, react, angular, adonis.js, cPanel**
+- 💬 Ask me about **React, Laravel, Flutter, Vue, Angular, Java, Python, cPanel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
