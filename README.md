@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/nakjemmy" target="blank"><img src="https://img.shields.io/twitter/follow/nakjemmy?logo=twitter&style=for-the-badge" alt="nakjemmy" /></a> </p>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently working with **Scala**
 
-- 💬 Ask me about **Next.js, TRPC, React, Laravel, Flutter, Vue, Angular, Java, Python, Linux, cPanel**
+- 💬 Ask me about **Next.js, TRPC, React, Laravel, Flutter, Vue, Angular, Java, Kotlin, Scala, Python, Linux, cPanel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
