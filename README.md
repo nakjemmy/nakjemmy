@@ -36,7 +36,7 @@ My work connects developer tooling and reliable backend systems with full-stack 
 | **Systems & infrastructure** | Linux · Shell scripting · DNS · Infoblox · cPanel/WHM · VPS management tooling |
 | **Reliability & testing** | High-availability application recovery · Python 2-to-3 test migration · Testplan contributions |
 | **Software architecture** | System design · Application architecture · Frontend/backend integration |
-| **AI-assisted engineering** | Codex · Claude · Amp · Coding agents · MCP workflows |
+| **AI-assisted engineering** | Codex · Claude · Amp · OpenCode · Antigravity · GitHub Copilot |
 | **Mobile** | Flutter |
 
 <details>
@@ -51,7 +51,7 @@ My work connects developer tooling and reliable backend systems with full-stack 
 
 ### AI in my engineering workflow
 
-I use **Codex, Claude, and Amp** for coding and architectural reasoning, combining clear requirements and repository context with iterative implementation, review, and testing.
+I use **Codex, Claude, Amp, OpenCode, Antigravity, and GitHub Copilot** for coding and architectural reasoning, combining clear requirements and repository context with iterative implementation, review, and testing.
 
 - **Architecture & planning** — compare design trade-offs, explore clean architecture and domain-driven design, and turn product ideas into scoped requirements and implementation plans.
 - **Implementation & refactoring** — work with coding agents to build features, improve existing code, and refine solutions through feedback.
