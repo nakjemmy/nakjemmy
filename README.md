@@ -13,11 +13,11 @@
 
 I'm a software engineer from Ghana, working across **full-stack development, backend engineering, and software architecture**. My toolkit spans JVM services, modern web applications, mobile experiences, and cloud infrastructure.
 
-I currently work as a **Software Engineer at Morgan Stanley**, building **Scala CLI tools** for software engineers who use our tooling stack. Developer experience is a central part of my work: creating tools that help other engineers get things done.
+I currently work as a **Software Engineer at Morgan Stanley**, using **Scala to build backend services, CLI tools, and web applications**. My work supports software engineers across our tooling stack, with a focus on developer experience and maintainable software.
 
 ### Experience in practice
 
-- **Developer tooling at Morgan Stanley** — moved from a Python project to a Scala project in a new department, where I now build command-line tooling for engineers.
+- **Scala engineering at Morgan Stanley** — build backend services, command-line tools, and web applications within an engineering tooling ecosystem, following earlier work on a Python project.
 - **Python tooling & resilience** — previously developed Python CLI tools, worked on a high-availability application recovery system, and helped migrate test suites from Python 2 to Python 3.
 - **Full-stack engineering at Astrastellar** — worked on the design, architecture, and implementation of Astrastellar Academy, translating Figma designs into React/Next.js interfaces, building backend logic with tRPC, and contributing to monorepo deployment workflows on Vercel.
 
@@ -27,9 +27,9 @@ I enjoy connecting the pieces: clear APIs, well-defined service boundaries, usef
 
 | Area | Technologies & focus |
 | :--- | :--- |
-| **Developer tooling** | Scala CLI tools · Python · Shell scripting · Linux |
+| **Developer tooling** | CLI development · Scala · Python · Shell scripting · Linux |
 | **Backend & JVM** | Java · Spring Boot · Scala · Akka · Kotlin |
-| **Web applications** | TypeScript · JavaScript · React · Next.js · React Query · tRPC · Tailwind CSS |
+| **Web applications** | Scala · TypeScript · JavaScript · React · Next.js · React Query · tRPC · Tailwind CSS |
 | **PHP ecosystem** | PHP · Laravel |
 | **Mobile** | Flutter · Dart · Android |
 | **Cloud & delivery** | AWS · Docker · Docker Compose · Linux · Git · GitHub Actions · Vercel · Turborepo |
