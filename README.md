@@ -25,21 +25,26 @@ I enjoy connecting the pieces: clear APIs, well-defined service boundaries, usef
 
 ### My engineering toolkit
 
-| Area | Technologies & focus |
+My work connects developer tooling and reliable backend systems with full-stack application delivery.
+
+| Area | Technologies & practical experience |
 | :--- | :--- |
-| **Developer tooling** | CLI development · Scala · Python · Shell scripting · Linux |
-| **Backend & JVM** | Java · Spring Boot · Scala · Kotlin |
-| **Web applications** | Scala · TypeScript · JavaScript · React · Next.js · React Query · tRPC · Tailwind CSS |
-| **PHP ecosystem** | PHP · Laravel |
-| **Mobile** | Flutter · Dart · Android |
-| **Cloud & delivery** | AWS · Docker · Docker Compose · Linux · Git · GitHub Actions · Vercel · Turborepo |
-| **Data** | PostgreSQL · MySQL · MongoDB · SQLite · DynamoDB |
-| **Architecture** | API design · Microservices · Serverless applications · Service boundaries |
+| **Scala & JVM** | Scala across backend, CLI, and web development · Java · Spring Boot · Kotlin |
+| **Backend & APIs** | Python · tRPC · Laravel · Backend business logic |
+| **Web interfaces** | TypeScript · React · Next.js · React Query · Tailwind CSS · Vue · Angular · Figma-to-code implementation |
+| **Monorepos & delivery** | Turborepo · GitHub workflows · CI/CD · Vercel · Deployer |
+| **Systems & infrastructure** | Linux · Shell scripting · DNS · Infoblox · cPanel/WHM · VPS management tooling |
+| **Reliability & testing** | High-availability application recovery · Python 2-to-3 test migration · Testplan contributions |
+| **Software architecture** | System design · Application architecture · Frontend/backend integration |
+| **Mobile** | Flutter |
 
 <details>
-<summary><strong>More tools I've worked with</strong></summary>
+<summary><strong>Cloud foundations & additional experience</strong></summary>
 
-Vue · Angular · Node.js · Express · Firebase · cPanel
+- **Training & credentials:** Kubernetes and Cloud Native Associate (KCNA) · Kubernetes and Cloud Native Essentials (LFS250) · Introduction to DevOps.
+- **Architecture coursework:** Building Scalable Java Microservices with Spring Boot and Spring Cloud.
+- **Additional language experience:** C++.
+- **Public project experience:** AWS Lambda · API Gateway · S3 · DynamoDB · PostgreSQL · Docker · Docker Compose · Node.js/Express · Dart.
 
 </details>
 
