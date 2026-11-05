@@ -13,24 +13,33 @@
 
 I'm a software engineer from Ghana, working across **full-stack development, backend engineering, and software architecture**. My toolkit spans JVM services, modern web applications, mobile experiences, and cloud infrastructure.
 
+I currently work as a **Software Engineer at Morgan Stanley**, building **Scala CLI tools** for software engineers who use our tooling stack. Developer experience is a central part of my work: creating tools that help other engineers get things done.
+
+### Experience in practice
+
+- **Developer tooling at Morgan Stanley** — moved from a Python project to a Scala project in a new department, where I now build command-line tooling for engineers.
+- **Python tooling & resilience** — previously developed Python CLI tools, worked on a high-availability application recovery system, and helped migrate test suites from Python 2 to Python 3.
+- **Full-stack engineering at Astrastellar** — worked on the design, architecture, and implementation of Astrastellar Academy, translating Figma designs into React/Next.js interfaces, building backend logic with tRPC, and contributing to monorepo deployment workflows on Vercel.
+
 I enjoy connecting the pieces: clear APIs, well-defined service boundaries, useful interfaces, and maintainable systems.
 
 ### My engineering toolkit
 
 | Area | Technologies & focus |
 | :--- | :--- |
+| **Developer tooling** | Scala CLI tools · Python · Shell scripting · Linux |
 | **Backend & JVM** | Java · Spring Boot · Scala · Akka · Kotlin |
-| **Web applications** | TypeScript · JavaScript · React · Next.js · tRPC |
+| **Web applications** | TypeScript · JavaScript · React · Next.js · React Query · tRPC · Tailwind CSS |
 | **PHP ecosystem** | PHP · Laravel |
 | **Mobile** | Flutter · Dart · Android |
-| **Cloud & delivery** | AWS · Docker · Docker Compose · Linux · Git |
+| **Cloud & delivery** | AWS · Docker · Docker Compose · Linux · Git · GitHub Actions · Vercel · Turborepo |
 | **Data** | PostgreSQL · MySQL · MongoDB · SQLite · DynamoDB |
 | **Architecture** | API design · Microservices · Serverless applications · Service boundaries |
 
 <details>
 <summary><strong>More tools I've worked with</strong></summary>
 
-Vue · Angular · Node.js · Express · Python · Firebase · cPanel
+Vue · Angular · Node.js · Express · Firebase · cPanel
 
 </details>
 
@@ -48,7 +57,7 @@ A selection of public projects and learning work across cloud applications and r
 
 - **Scala & the JVM** — functional programming and backend system design.
 - **Distributed systems** — how services communicate, handle failure, and stay understandable.
-- **Cloud architecture** — containers, serverless patterns, and the trade-offs behind deployment choices.
+- **Cloud architecture** — containers, Kubernetes and cloud-native concepts, serverless patterns, and deployment trade-offs.
 
 ---
 
