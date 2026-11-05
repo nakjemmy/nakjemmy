@@ -11,7 +11,7 @@
 
 ## Hi, I'm Jeremiah 👋
 
-I'm a **Senior Software Engineer at turntabl**, based in Ghana and working with **Morgan Stanley through an agency assignment**. My current Scala work spans **backend services, CLI tools, and web applications** that support software engineers across our tooling stack.
+I'm a **Senior Software Engineer at turntabl**, based in Ghana and working with **Morgan Stanley** on **Scala backend services, CLI tools, and web applications** that support software engineers across our tooling stack.
 
 My experience also covers Python developer tooling and application reliability, alongside full-stack development and architecture with TypeScript, React/Next.js, and tRPC.
 
