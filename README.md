@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Jeremiah Nsiah Akuoko — Software Engineer. Full-stack development, backend systems and software architecture. Based in Ghana." />
+  <img src="./assets/profile-header.svg" width="100%" alt="Jeremiah Nsiah Akuoko — Backend, developer tooling, and full-stack engineering." />
 </p>
 
 <p align="center">
@@ -11,49 +11,59 @@
 
 ## Hi, I'm Jeremiah 👋
 
-I'm a software engineer from Ghana, working across **full-stack development, backend engineering, and software architecture**. My toolkit spans JVM services, modern web applications, mobile experiences, and cloud infrastructure.
+I'm a **Senior Software Engineer at Turntabl**, based in Ghana and working with **Morgan Stanley** on **Scala backend services, CLI tools, and web applications** that support software engineers across our tooling stack.
 
-I enjoy connecting the pieces: clear APIs, well-defined service boundaries, useful interfaces, and maintainable systems.
+My experience also covers Python developer tooling and application reliability, alongside full-stack development and architecture with TypeScript, React/Next.js, and tRPC.
 
-### My engineering toolkit
+### Selected experience
 
-| Area | Technologies & focus |
-| :--- | :--- |
-| **Backend & JVM** | Java · Spring Boot · Scala · Akka · Kotlin |
-| **Web applications** | TypeScript · JavaScript · React · Next.js · tRPC |
-| **PHP ecosystem** | PHP · Laravel |
-| **Mobile** | Flutter · Dart · Android |
-| **Cloud & delivery** | AWS · Docker · Docker Compose · Linux · Git |
-| **Data** | PostgreSQL · MySQL · MongoDB · SQLite · DynamoDB |
-| **Architecture** | API design · Microservices · Serverless applications · Service boundaries |
+- **Application resilience** — led development of a high-availability recovery system designed to restore applications after host failures.
+- **Developer tooling & testing** — developed Python CLI tools, contributed to Testplan, and helped migrate test suites from Python 2 to Python 3 to improve maintainability.
+- **Full-stack delivery at Astrastellar** — contributed to the architecture and implementation of Astrastellar Academy, translating Figma designs into React/Next.js interfaces, building tRPC business logic, and developing monorepo deployment workflows for Vercel.
+
+### Engineering toolkit
+
+- **Backend & JVM:** Scala · Java · Kotlin · Spring Boot · Python
+- **Web & APIs:** TypeScript · React · Next.js · React Query · tRPC · Laravel · Tailwind CSS
+- **Developer tooling & systems:** Linux · Shell scripting · DNS · Infoblox
+- **Monorepos & delivery:** Turborepo · GitHub workflows · CI/CD · Vercel · Deployer
+- **Mobile:** Flutter
+- **AI-assisted engineering:** Codex · Claude Code · Amp · OpenCode · Antigravity · GitHub Copilot
 
 <details>
-<summary><strong>More tools I've worked with</strong></summary>
+<summary><strong>Additional experience & cloud foundations</strong></summary>
 
-Vue · Angular · Node.js · Express · Python · Firebase · cPanel
+- **Other development experience:** Vue · Angular · C++ · cPanel/WHM · VPS management tooling.
+- **Public project experience:** AWS Lambda · API Gateway · S3 · DynamoDB · PostgreSQL · Docker · Docker Compose · Node.js/Express · Dart.
+- **Training & credentials:** Kubernetes and Cloud Native Associate (KCNA) · Kubernetes and Cloud Native Essentials (LFS250) · Introduction to DevOps.
+- **Architecture coursework:** Building Scalable Java Microservices with Spring Boot and Spring Cloud.
 
 </details>
 
-### A few things to explore
+### AI in my engineering workflow
 
-A selection of public projects and learning work across cloud applications and reusable models.
+I combine clear requirements and repository context with iterative implementation, review, and testing.
 
-| Project | What you'll find |
-| :--- | :--- |
-| [**Serverless Recipe App**](https://github.com/nakjemmy/udacity-cdev-final-project) | A React application with a TypeScript backend, authenticated recipe management, AWS Lambda, API Gateway, DynamoDB, and S3. |
-| [**Udagram**](https://github.com/nakjemmy/udagram-project) | A cloud development project with Angular/Ionic, Node.js/Express APIs, PostgreSQL, and Docker Compose services for users, feeds, and a reverse proxy. |
-| [**Google Maps Models**](https://github.com/nakjemmy/google_maps_models) | Dart models for Google Maps, with JSON serialization tooling and a test/lint workflow. |
+- **Architecture & planning:** compare trade-offs, question assumptions, and shape scoped implementation plans.
+- **Implementation & refactoring:** guide coding agents with project context, inspect changes, and refine solutions through feedback.
+- **Debugging & validation:** investigate failures and check fixes against tests and framework documentation, using MCP integrations to connect relevant development tools.
 
-### What keeps me curious
+### Selected public projects
 
-- **Scala & the JVM** — functional programming and backend system design.
-- **Distributed systems** — how services communicate, handle failure, and stay understandable.
-- **Cloud architecture** — containers, serverless patterns, and the trade-offs behind deployment choices.
+These learning projects and utilities show parts of my cloud and full-stack experience.
+
+- [**Serverless Recipe App**](https://github.com/nakjemmy/udacity-cdev-final-project) — a cloud coursework project combining React, TypeScript, authenticated recipe management, and AWS Lambda, API Gateway, DynamoDB, and S3.
+- [**Udagram**](https://github.com/nakjemmy/udagram-project) — a cloud development project with Angular/Ionic, Node.js/Express APIs, PostgreSQL, and Docker Compose services.
+- [**Google Maps Models**](https://github.com/nakjemmy/google_maps_models) — Dart models for Google Maps, with JSON serialization tooling and a test/lint workflow.
+
+### Learning interests
+
+I'm interested in learning **Akka** to deepen my understanding of concurrency and distributed systems in Scala, alongside further study of functional programming and cloud architecture.
 
 ---
 
 <p align="center">
-  <strong>Let's talk software, systems, and the details that make them work.</strong><br />
+  Interested in backend systems, developer tooling, or full-stack engineering?<br />
   <a href="https://www.linkedin.com/in/nakjemmy/">Connect on LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://github.com/nakjemmy?tab=repositories">Explore my repositories</a>
 </p>
