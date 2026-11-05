@@ -28,7 +28,7 @@ I enjoy connecting the pieces: clear APIs, well-defined service boundaries, usef
 | Area | Technologies & focus |
 | :--- | :--- |
 | **Developer tooling** | CLI development · Scala · Python · Shell scripting · Linux |
-| **Backend & JVM** | Java · Spring Boot · Scala · Akka · Kotlin |
+| **Backend & JVM** | Java · Spring Boot · Scala · Kotlin |
 | **Web applications** | Scala · TypeScript · JavaScript · React · Next.js · React Query · tRPC · Tailwind CSS |
 | **PHP ecosystem** | PHP · Laravel |
 | **Mobile** | Flutter · Dart · Android |
@@ -56,6 +56,7 @@ A selection of public projects and learning work across cloud applications and r
 ### What keeps me curious
 
 - **Scala & the JVM** — functional programming and backend system design.
+- **Akka** — interested in learning Akka to deepen my understanding of concurrency and distributed systems in Scala.
 - **Distributed systems** — how services communicate, handle failure, and stay understandable.
 - **Cloud architecture** — containers, Kubernetes and cloud-native concepts, serverless patterns, and deployment trade-offs.
 
