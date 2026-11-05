@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Jeremiah Nsiah Akuoko — Software Engineer</title>
+  <desc id="desc">Full-stack development, backend systems and software architecture. Ghana. Decorative connected service blocks on a dark navy background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0b1220"/><stop offset="1" stop-color="#142b3c"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#294254" stroke-opacity=".32"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="20" fill="url(#grid)"/>
+  <rect x="56" y="57" width="36" height="4" rx="2" fill="#5eead4"/>
+  <text x="106" y="65" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3" fill="#5eead4">NAKJEMMY / SOFTWARE ENGINEER</text>
+  <text x="56" y="140" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" fill="#f1f5f9">Jeremiah Nsiah Akuoko</text>
+  <text x="56" y="190" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#cbd5e1">Full-stack development. Backend systems.</text>
+  <text x="56" y="226" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#cbd5e1">Thoughtful software architecture.</text>
+  <text x="56" y="300" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2" fill="#94a3b8">BASED IN GHANA · BUILDING ACROSS THE STACK</text>
+  <g fill="none" stroke="#5eead4" stroke-width="2" opacity=".65">
+    <path d="M965 106V166H900V226M965 166H1110V226"/>
+    <path d="M900 274V300H1110V274"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle">
+    <rect x="899" y="58" width="132" height="48" rx="12" fill="#162e40" stroke="#36566a"/>
+    <text x="965" y="88" fill="#e2e8f0">INTERFACE</text>
+    <rect x="834" y="226" width="132" height="48" rx="12" fill="#123b40" stroke="#5eead4"/>
+    <text x="900" y="256" fill="#99f6e4">SERVICES</text>
+    <rect x="1044" y="226" width="132" height="48" rx="12" fill="#162e40" stroke="#36566a"/>
+    <text x="1110" y="256" fill="#e2e8f0">DATA</text>
+    <circle cx="965" cy="166" r="5" fill="#5eead4"/>
+  </g>
+</svg>
