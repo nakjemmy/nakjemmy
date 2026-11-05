@@ -36,6 +36,7 @@ My work connects developer tooling and reliable backend systems with full-stack 
 | **Systems & infrastructure** | Linux · Shell scripting · DNS · Infoblox · cPanel/WHM · VPS management tooling |
 | **Reliability & testing** | High-availability application recovery · Python 2-to-3 test migration · Testplan contributions |
 | **Software architecture** | System design · Application architecture · Frontend/backend integration |
+| **AI-assisted engineering** | Codex · Claude · Amp · Coding agents · MCP workflows |
 | **Mobile** | Flutter |
 
 <details>
@@ -47,6 +48,15 @@ My work connects developer tooling and reliable backend systems with full-stack 
 - **Public project experience:** AWS Lambda · API Gateway · S3 · DynamoDB · PostgreSQL · Docker · Docker Compose · Node.js/Express · Dart.
 
 </details>
+
+### AI in my engineering workflow
+
+I use **Codex, Claude, and Amp** for coding and architectural reasoning, combining clear requirements and repository context with iterative implementation, review, and testing.
+
+- **Architecture & planning** — compare design trade-offs, explore clean architecture and domain-driven design, and turn product ideas into scoped requirements and implementation plans.
+- **Implementation & refactoring** — work with coding agents to build features, improve existing code, and refine solutions through feedback.
+- **Debugging & validation** — investigate failures, iterate on fixes, and check results against tests and framework documentation.
+- **Context & tools** — provide repository guidance and configure MCP integrations so agents can work with relevant development tools.
 
 ### A few things to explore
 
