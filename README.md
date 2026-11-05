@@ -33,7 +33,7 @@ Much of my professional engineering work is internal or non-public.
 - **Web applications:** React · Next.js · Vue · Angular · React Query · Tailwind CSS
 - **Mobile:** Flutter
 - **Data & messaging:** PostgreSQL · Prisma · RabbitMQ
-- **Platform & cloud:** Linux · Bash · Docker · AWS · GCP · DNS · Infoblox
+- **Platform & cloud:** Linux · Bash · Docker · AWS · GCP · DNS
 - **Monorepos & delivery:** Turborepo · GitHub workflows · CI/CD · Vercel · Deployer
 - **AI-assisted engineering:** Codex · Claude Code · Amp · OpenCode · Antigravity · GitHub Copilot
 
